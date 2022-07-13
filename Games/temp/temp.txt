@@ -1,0 +1,11 @@
+Каталог D://Homework_JC3.1/Games/src создан
+Каталог D://Homework_JC3.1/Games/res создан
+Каталог D://Homework_JC3.1/Games/savegames создан
+Каталог D://Homework_JC3.1/Games/temp создан
+Каталог D://Homework_JC3.1/Games/src/main создан
+Каталог D://Homework_JC3.1/Games/src/test создан
+Каталог D://Homework_JC3.1/Games/res/drawables создан
+Каталог D://Homework_JC3.1/Games/res/vectors создан
+Каталог D://Homework_JC3.1/Games/res/icons создан
+Файл Main.java создан
+Файл Utils.java создан
